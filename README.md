@@ -1,2 +1,2 @@
 # WebDesign
-Aprendendo WebDesign maratonadev
+Aprendendo WebDesign maratonadev RocketSeat
